@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm Artem, Fullstack engineer specializing in Next and React technologies. 
+ I'm Artem, Fullstack engineer, specializing in Next and React technologies. 
  
  The main language is TypeScript. Although I had six months of experience working with C++. 
 
